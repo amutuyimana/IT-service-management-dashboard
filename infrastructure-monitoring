@@ -17,4 +17,4 @@ print(f"CPU Usage: {cpu}%")
 print(f"Memory Usage: {memory}%")
 print(f"Disk Usage: {disk}%")
 
-This demonstrates that you actually work with IT operations and infrastructure automation.
+This demonstrates IT operations and infrastructure automation.
